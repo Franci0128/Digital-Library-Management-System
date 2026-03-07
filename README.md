@@ -413,6 +413,7 @@ digital-library
 │
 ├── Baza_de_date_1.sql                # Database schema / initial data
 │
+├── Biblioteca_digitala.pdf
 └── README.md
 ```
 
