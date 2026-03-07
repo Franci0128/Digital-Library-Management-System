@@ -162,6 +162,14 @@ Persistence Layer
 - Monitor borrowing activity
 
 
+## Use Case Diagram
+
+The following diagram illustrates the main actors and functionalities of the digital library system, including interactions between visitors, users, and administrators.
+
+<p align="center">
+  <img src="images/Use Case Diagram.jpg" width="900">
+</p>
+
 ## Design Patterns
 ### Observer Pattern
 
