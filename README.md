@@ -7,10 +7,8 @@
 
 ## Project Contribution
 
-This project was developed as part of a **team collaboration**.
-
-Within the team, I coordinated the development process by organizing the tasks, distributing responsibilities among team members, and ensuring that each component of the application was properly implemented.
-
+This project was developed as part of a **team collaboration**.  
+Within the team, I coordinated the development process by organizing the tasks, distributing responsibilities among team members, and ensuring that each component of the application was properly implemented.  
 After the implementation phase, I performed a comprehensive review of the entire system, testing the application's functionality and identifying potential issues in both the frontend and backend. I corrected errors and ensured that all components were correctly integrated and functioning as expected.
 
 
@@ -21,14 +19,10 @@ After the implementation phase, I performed a comprehensive review of the entire
 
 ## Description
 
-The **Digital Library Management System** is a full-stack web application designed to manage a modern digital library.
-
-The platform allows users to browse books, reserve and borrow items, manage personal accounts, rate books, and maintain a list of favorite titles.
-
-The system also includes an **administrative interface** that allows managers to manage books, approve subscriptions, and monitor library activity.
-
+The **Digital Library Management System** is a full-stack web application designed to manage a modern digital library.  
+The platform allows users to browse books, reserve and borrow items, manage personal accounts, rate books, and maintain a list of favorite titles.  
+The system also includes an **administrative interface** that allows managers to manage books, approve subscriptions, and monitor library activity.  
 The application is built using a **React frontend** and a **Spring Boot backend**, communicating through REST APIs.
-
 
 ## System Architecture
 
@@ -173,8 +167,7 @@ The following diagram illustrates the main actors and functionalities of the dig
 ## Design Patterns
 ### Observer Pattern
 
-One of the patterns incorporated in this project is the **Observer Pattern**, which manages updates between different components of the system.
-
+One of the patterns incorporated in this project is the **Observer Pattern**, which manages updates between different components of the system.  
 The Observer pattern allows objects (observers) to automatically react when the state of another object (the subject) changes. This approach helps decouple system components and improves maintainability.
 
 The diagram below illustrates the structure of the Observer Pattern used in the application:
@@ -216,8 +209,7 @@ Communication diagrams describe how **different components of the system interac
 
 ### State Diagrams
 
-State diagrams illustrate how an object changes its **state during its lifecycle**.
-
+State diagrams illustrate how an object changes its **state during its lifecycle**.  
 These diagrams help represent how the system transitions between states depending on user actions or system events.
 
 <p align="center">
